@@ -1,7 +1,7 @@
 ---
 ---
 
-<img id="portrait" src="assets/me.jpg" alt="placeholder photo">
+<img id="portrait" src="Goat Pic.jpg" alt="placeholder photo">
 
 Hi! I’m Xavior, from Kansas City, MO. I’m a first-year student at The University of Chicago studying Neuroscience and Comparative Human Development with a minor in Neuroscience.
 
